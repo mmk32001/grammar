@@ -1,0 +1,8 @@
+Original sentence data:
+english_sent.csv
+
+After preprocessing dataset is:
+spacy_pos_tags.pkl
+
+Dataset in source and target form:
+src_target_pos.pkl
